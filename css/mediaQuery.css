@@ -1,0 +1,13 @@
+@media (max-width: 1280px) {
+    a {
+        display: none;
+    }
+    .logo {
+        display: block;
+        width: 130px;
+    }
+    .menu {
+        font-size: 21px !important;
+        display: block !important;
+    }
+}
